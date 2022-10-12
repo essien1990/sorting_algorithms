@@ -4,7 +4,7 @@
 
 /**
  * bubble_sort - Entry Point
- * @array: array to bubble sorted
+ * @array: Array to bubble sorted
  * @size: size of array to be bubble sorted
  *
  */
