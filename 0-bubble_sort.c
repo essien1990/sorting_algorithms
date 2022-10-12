@@ -3,7 +3,7 @@
 #include "sort.h"
 
 /**
- * bubble_sort - Entry Point
+ * bubble_sort - entry point
  * @array: Array to bubble sorted
  * @size: size of array to be bubble sorted
  *
