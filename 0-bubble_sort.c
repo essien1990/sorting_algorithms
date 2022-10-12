@@ -8,6 +8,7 @@
  * @size: size of array to be bubble sorted
  *
  */
+
 void bubble_sort(int *array, size_t size)
 {
 	size_t x;
@@ -29,6 +30,5 @@ void bubble_sort(int *array, size_t size)
 				print_array(array, size);
 			}
 		}
-
 	} while (sort == 0);
 }
